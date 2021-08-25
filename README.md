@@ -27,6 +27,6 @@ If anyone follow each each question from these repositories, <b> Can easily achi
 <!-- <img alt="Strength Diverse" height ="100" src="https://pbs.twimg.com/media/EGULBzJXkAAuQ38?format=jpg&name=medium" > -->
 
 
-The respository contains is not final. I keep uploading solutions of more problems on CPP, Problem Solving & Python Module.
+The respository is not final. I keep uploading solutions of more problems on CPP, Problem Solving & Python Module.
 
 
